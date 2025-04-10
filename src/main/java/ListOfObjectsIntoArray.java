@@ -40,7 +40,6 @@ public class ListOfObjectsIntoArray {
         list.add(p2);
         list.add(p3);
 
-//        System.out.println(list);
         ObjectMapper mapper = new ObjectMapper();
         try{
             String jsonArray = mapper.writeValueAsString(list);
