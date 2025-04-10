@@ -39,5 +39,14 @@
       <artifactId>json-schema-validator</artifactId>
       <version>2.2.6</version>
     </dependency>
+
+<!--    convert json to xml -->
+    <dependency>
+      <groupId>com.fasterxml.jackson.dataformat</groupId>
+      <artifactId>jackson-dataformat-xml</artifactId>
+      <version>2.16.1</version>
+    </dependency>
+
   </dependencies>
+
 </project>
