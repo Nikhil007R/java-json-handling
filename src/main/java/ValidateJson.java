@@ -19,8 +19,6 @@ class User1 {
         return "User{name='" + name + "', email='" + email + "'}";
     }
 }
-
-
 public class ValidateJson {
 
     public static void main(String[] args) {
